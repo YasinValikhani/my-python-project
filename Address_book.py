@@ -39,7 +39,7 @@ while True:
         print('3. Update Contact')
         print('4. Delet Contact')
         print('5. Exit')
-sa
+
         choice = int(input("Enter your choice (1/2/3/4/5): ").strip())
 
         if choice == 2:
